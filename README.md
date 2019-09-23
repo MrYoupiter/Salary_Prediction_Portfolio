@@ -32,6 +32,21 @@ The dataset includes available features or labelled columns for analysis as foll
 
 *1) Data Cleaning* - Hidden information is clarified and data is analyzed to provide a more structured look. Involves dropping missing or redundant features and renaming.
 
-*2) Exploratory Data Analysis* - In-depth Data Analysis, including summary statistics (descriptive and inferential)
+*2) Exploratory Data Analysis* - In-depth Data Analysis, including summary statistics (descriptive and inferential) and data visualization using regression, distribution, scatter, residual and violent plots.
 
-*3) 
+*3) Machine Learning* - Baseline Model has been built and compared for Evaluation Metrics like *MSE* and *R^2* against other models like Linear Regression, Ridge Regression, Random Forest and Gradient Descent. Involves model tuning using parameters.
+
+*4) Cross-validation and Best Model Selection* - Model with the least MSE and most R^2 was selected to be the best performing model. A summary of the evaluation scores is as follows: 
+
+    **Linear Regression**:  385.0
+    **Polynomial Regressor**:  353.0
+    **Ridge Regressor**:  354.0
+    **Random Forest**:  375.0
+    
+*5) Feature Importance* - Most important features in the Automation Pipeline are visualized.
+
+*6) Deployment* - Final model has been built and saved into production using Pipeline. Can be applied to a dataset with unknown Salary values.
+
+## Summary
+
+*The application of a 2nd Order Polynomial Transformation on a Linear Regression Model gave the least MSE of 353 and most accuracy of 76%. This model can provide the most accurate results in futute when supplied with information on Experience (Years), Miles from Metropolis, Job Type, Degree and Major*
