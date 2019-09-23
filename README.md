@@ -12,19 +12,26 @@ The data provided to us has been split in training and testing sets. The files i
 
 The dataset includes available features or labelled columns for analysis as follows:
 
-*Job ID/jobId* : Given Job ID for the role
+**Job ID/jobId** : Given Job ID for the role
 
-Company ID : Company ID for the respective Job ID advertised
+**Company ID** : Company ID for the respective Job ID advertised
 
-Degree : Applicant's qualification/degree
+**Degree** : Applicant's qualification/degree
 
-Major : Degree Specialization
+**Major** : Degree Specialization
 
-Industry : Job ID's categorized industry such as Oil, Auto, Health, Finance etc.
+**Industry** : Job ID's categorized industry such as Oil, Auto, Health, Finance etc.
 
-Experience (Years) : Requried Experience for the role
+**Experience (Years)** : Requried Experience for the role
 
-Miles from Metropolis : Distance of the job location in miles from the nearest metropolitan city
+**Miles from Metropolis** : Distance of the job location in miles from the nearest metropolitan city
 
-salary : In x1000 dollars of the respective Job ID
+**Salary** : In x1000 dollars of the respective Job ID
 
+## Methodology
+
+*1) Data Cleaning* - Hidden information is clarified and data is analyzed to provide a more structured look. Involves dropping missing or redundant features and renaming.
+
+*2) Exploratory Data Analysis* - In-depth Data Analysis, including summary statistics (descriptive and inferential)
+
+*3) 
