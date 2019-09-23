@@ -1,7 +1,7 @@
 # Salary Prediction Portfolio Project
 *(Predictive Analytics in Python)*
 
-**Aim**
+## Aim
 
 Predicting the salary for a job position is crucial for a business' HR & talent function for optimizing compensation strategy and talent retention in a highly competetive labour market. The aim of this project is to build a salary prediction model for existing and future job seekers by examining an existing dataset of job postings.
 
