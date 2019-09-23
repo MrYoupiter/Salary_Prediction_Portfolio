@@ -12,7 +12,7 @@ The data provided to us has been split in training and testing sets. The files i
 
 The dataset includes available features or labelled columns for analysis as follows:
 
-Job ID/jobId : Given Job ID for the role
+*Job ID/jobId* : Given Job ID for the role
 
 Company ID : Company ID for the respective Job ID advertised
 
