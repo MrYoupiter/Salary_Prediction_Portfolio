@@ -28,6 +28,17 @@ The dataset includes available features or labelled columns for analysis as foll
 
 **Salary** : In x1000 dollars of the respective Job ID
 
+## Technologies/Libraries Used
+
+ - *Python 3*
+ - *Jupyter*
+ - *Pandas*
+ - *Numpy*
+ - *Seaborn*
+ - *Matplotlib*
+ - *Scikit-Learn*
+ - *Scipy*
+
 ## Methodology
 
 *1) Data Cleaning* - Hidden information is clarified and data is analyzed to provide a more structured look. Involves dropping missing or redundant features and renaming.
