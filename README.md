@@ -38,10 +38,10 @@ The dataset includes available features or labelled columns for analysis as foll
 
 *4) Cross-validation and Best Model Selection* - Model with the least MSE and most R^2 was selected to be the best performing model. A summary of the evaluation scores is as follows: 
 
- *Linear Regression*:  385.0
- *Polynomial Regressor*:  353.0
- *Ridge Regressor*:  354.0
- *Random Forest*:  375.0
+ *Linear Regression*:  385.0 ; 
+ *Polynomial Regressor*:  353.0 ; 
+ *Ridge Regressor*:  354.0 ; 
+ *Random Forest*:  375.0 ; 
     
 *5) Feature Importance* - Most important features in the Automation Pipeline are visualized.
 
