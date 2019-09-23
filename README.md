@@ -50,3 +50,6 @@ The dataset includes available features or labelled columns for analysis as foll
 ## Summary
 
 *The application of a 2nd Order Polynomial Transformation on a Linear Regression Model gave the least MSE of 353 and most accuracy of 76%. This model can provide the most accurate results in futute when supplied with information on Experience (Years), Miles from Metropolis, Job Type, Degree and Major*
+
+
+### Follow this [Link](https://github.com/danishanis/Salary_Prediction_Portfolio/blob/master/SalaryPredictionProject.ipynb) for codes
