@@ -1,2 +1,4 @@
-# Salary_Prediction_Portfolio
-Salary Prediction Project (Predictive Analytics in Python)
+# Salary Prediction Portfolio Project - (Predictive Analytics in Python)
+
+**Aim**
+
