@@ -13,10 +13,18 @@ The data provided to us has been split in training and testing sets. The files i
 The dataset includes available features or labelled columns for analysis as follows:
 
 Job ID/jobId : Given Job ID for the role
+
 Company ID : Company ID for the respective Job ID advertised
+
 Degree : Applicant's qualification/degree
+
 Major : Degree Specialization
+
 Industry : Job ID's categorized industry such as Oil, Auto, Health, Finance etc.
+
 Experience (Years) : Requried Experience for the role
+
 Miles from Metropolis : Distance of the job location in miles from the nearest metropolitan city
+
 salary : In x1000 dollars of the respective Job ID
+
